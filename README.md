@@ -1,4 +1,4 @@
-### Welcome to my page! :shipit:
+### Welcome to my page! :tada:
 
 I'm currently building things that I find interesting, especially within the field of AI and ML :brain:
 
