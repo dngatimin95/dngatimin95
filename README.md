@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my page! :shipit:
+
+I'm currently building things that I find interesting, especially within the field of AI and ML :brain:
+
 
 <!--
 **dngatimin95/dngatimin95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
