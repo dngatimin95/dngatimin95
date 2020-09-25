@@ -1,6 +1,8 @@
 ### Welcome to my page! :tada:
 
 I'm currently building things that I find interesting, especially within the field of AI and ML :brain:
+ - :hammer: Currently working on building websites / implementing Neural Networks
+ - 🤔 Currently focused on learning to build websites with Django 
 
 
 <!--
