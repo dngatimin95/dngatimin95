@@ -1,8 +1,9 @@
-### Welcome to my page! :tada:
+### Hello There and Welcome to my page! :tada:
 
-I'm currently building things that I find interesting, especially within the field of AI and ML :brain:
- - :hammer: Currently working on building websites / implementing Neural Networks
+My name is Darren and I'm currently building things that I find interesting, especially within the field of AI and ML :brain:
+ - :hammer: Currently working on building websites / implementing Neural Networks on certain projects
  - 🤔 Currently focused on learning to build websites with Django 
+ - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/darren-ngatimin/)
 
 
 <!--
