@@ -1,8 +1,8 @@
 ### Hello There and Welcome to my page! :tada:
 
 My name is Darren and I'm currently building things that I find interesting, especially within the field of AI and ML :brain:
- - :hammer: Currently working on building websites / implementing Neural Networks on certain projects
- - 🤔 Currently focused on learning to build websites with Django 
+ - :hammer: Currently working on implementing Neural Networks on my projects
+ - 🤔 Currently focused on learning to build websites with Flask 
  - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/darren-ngatimin/)
 
 
