@@ -1,7 +1,11 @@
 ### Hello There and Welcome to my page! :tada:
 
 My name is Darren and I'm currently building things that I find interesting, especially within the field of AI and ML :brain:
- - :hammer: Currently working on implementing Neural Networks on my projects
+ - :hammer: Currently working on implementing Neural Networks on some of my projects and other interesting stuff!
+  - [ ] Implement Reinforcement Training in `pyGame_Tour`
+  - [ ] Implement NN in `Blackjack`
+  - [ ] Build my long-forgotten website
+  - [ ] Find out if Neural Networks dream of electric sheep
  - 🤔 Currently focused on learning to build websites with Flask 
  - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/darren-ngatimin/)
 
