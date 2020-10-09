@@ -1,12 +1,13 @@
 ### Hello There and Welcome to my page! :tada:
 
 My name is Darren and I'm currently building things that I find interesting, especially within the field of AI and ML :brain:
- - :hammer: Currently working on implementing Neural Networks on some of my projects and other interesting stuff!
-   - [ ] Implement Reinforcement Training in `pyGame_Tour` to allow AI to play snake
-   - [ ] Implement NN in `Blackjack` to allow AI to optimally play Blackjack
+ - :hammer: Currently working on:
+   - [ ] Training an AI to play the snake game in `pyGame_Tour` through reinforcement training
+   - [ ] Figure out how to implement a GPT2 transformer and RNN to generate text in `Plot_Gen`
+   - [ ] Implement a NN to make an AI optimally play Blackjack in `Blackjack`
    - [ ] Build my long-forgotten website using Flask
    - [ ] Find out if Neural Networks dreams of electric sheep
- - 🤔 Currently focused on learning to build websites with Flask 
+ - 🤔 Currently focused on learning to build websites with Flask
  - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/darren-ngatimin/)
 
 
