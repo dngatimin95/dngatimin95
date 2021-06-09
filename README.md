@@ -7,7 +7,7 @@ My name is Darren and I'm currently building things that I find interesting, esp
    - [ ] Implement a NN to make an AI optimally play Blackjack in `Blackjack`
    - [ ] Learning ins and outs of web development with Django/Node.js
    - [ ] Find out if Neural Networks dreams of electric sheep
- - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/darren-ngatimin/)
+ - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/darren-ngatimin/) or via my [website](https://dngatimin.herokuapp.com/)
 
 
 <!--
