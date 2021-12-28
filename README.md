@@ -1,6 +1,6 @@
-### Hello There and Welcome to my page! :tada:
+### Hello World, and Welcome to my page! :tada:
 
-My name is Darren and I'm currently building things that I find interesting, especially within the field of AI and ML :brain:
+The name's Darren and I'm currently building things that I find interesting, especially within the field of AI and ML :brain:
  - :hammer: Currently working on:
    - :boom: ml related
      - [ ] Figure out how to implement a GPT2 transformer and RNN to generate text in `Plot_Gen`
