@@ -9,7 +9,7 @@ The name's Darren and I'm currently building things that I find interesting, esp
      - [ ] Learn all about backend, APIs through building an API to store food places to try    
      - [ ] Learning ins and outs of web development with Flask
      - [X] Find out if Neural Networks dreams of electric sheep
- - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/darren-ngatimin/) or via my [website](https://dngatimin.herokuapp.com/)
+ - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/darren-ngatimin/) or via my [website](https://dngatimin95.github.io/)
 
 
 <!--
