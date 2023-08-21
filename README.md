@@ -5,9 +5,8 @@ The name's Darren and I'm currently building things that I find interesting, esp
    - :boom: ml related
      - [ ] Figure out how to implement a GPT2 transformer and RNN to generate text in `Plot_Gen`
      - [ ] Training an AI to play the snake game in `pyGame_Tour` through reinforcement training
-     - [ ] Implement a NN to make an AI optimally play Blackjack in `Blackjack`
    - :link: others
-     - [ ] Learn all about backend   
+     - [ ] Learn all about backend, APIs through building an API to store food places to try    
      - [ ] Learning ins and outs of web development with Flask
      - [X] Find out if Neural Networks dreams of electric sheep
  - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/darren-ngatimin/) or via my [website](https://dngatimin.herokuapp.com/)
