@@ -3,7 +3,7 @@
 The name's Darren and I'm currently building things that I find interesting, especially within the field of AI and ML :brain:
  - :hammer: Currently working on:
    - :boom: ml related
-     - [ ] Figure out how to implement a GPT2 transformer and RNN to generate text in `Plot_Gen`
+     - [ ] Figure out how to implement a GPT2 transformer and LSTM to generate text in `Plot_Gen`
      - [ ] Training an AI to play the snake game in `pyGame_Tour` through reinforcement training
    - :link: others
      - [ ] Learn all about backend, APIs through building an API to store food places to try    
